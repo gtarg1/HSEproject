@@ -1,0 +1,24 @@
+{ 
+	Name: pl1, Descripition: ds1, Duration: 1115078, 
+	Tracks:[
+	{ Artist: Gigi D'Agostino, Song: L'Amour Toujours, Duration: 238759, Explicit: 0, Year: 2011, Popularity: 1, Danceability: 0.617, Energy: 0.728, Key: 7, Loudness: -7.932, Mode: 0, Speechiness: 0.0292, Acousticness: 0.0328, Instrumentalness: 0.0482, Liveness: 0.36, Valence: 0.808, Tempo: 139, Genre: pop },
+	{ Artist: Bon Jovi, Song: It's My Life, Duration: 224493, Explicit: 0, Year: 2000, Popularity: 78, Danceability: 0.551, Energy: 0.913, Key: 0, Loudness: -4.063, Mode: 0, Speechiness: 0.0466, Acousticness: 0.0263, Instrumentalness: 1.35e-05, Liveness: 0.347, Valence: 0.544, Tempo: 119, Genre: "rock metal" },
+	{ Artist: *NSYNC, Song: Bye Bye Bye, Duration: 200560, Explicit: 0, Year: 2000, Popularity: 65, Danceability: 0.614, Energy: 0.928, Key: 8, Loudness: -4.806, Mode: 0, Speechiness: 0.0516, Acousticness: 0.0408, Instrumentalness: 0.00104, Liveness: 0.0845, Valence: 0.879, Tempo: 172, Genre: pop },
+	{ Artist: blink-182, Song: All The Small Things, Duration: 167066, Explicit: 0, Year: 1999, Popularity: 79, Danceability: 0.434, Energy: 0.897, Key: 0, Loudness: -4.918, Mode: 0, Speechiness: 0.0488, Acousticness: 0.0103, Instrumentalness: 0, Liveness: 0.612, Valence: 0.684, Tempo: 148, Genre: "rock pop" },
+	{ Artist: Eminem, Song: The Real Slim Shady, Duration: 284200, Explicit: 1, Year: 2000, Popularity: 86, Danceability: 0.949, Energy: 0.661, Key: 5, Loudness: -4.244, Mode: 0, Speechiness: 0.0572, Acousticness: 0.0302, Instrumentalness: 0, Liveness: 0.0454, Valence: 0.76, Tempo: 104, Genre: hip hop },
+	]
+}
+
+{ 
+	Name: pl2, Descripition: ds2, Duration: 1728451, 
+	Tracks:[
+	{ Artist: Gigi D'Agostino, Song: L'Amour Toujours, Duration: 238759, Explicit: 0, Year: 2011, Popularity: 1, Danceability: 0.617, Energy: 0.728, Key: 7, Loudness: -7.932, Mode: 0, Speechiness: 0.0292, Acousticness: 0.0328, Instrumentalness: 0.0482, Liveness: 0.36, Valence: 0.808, Tempo: 139, Genre: pop },
+	{ Artist: Bon Jovi, Song: It's My Life, Duration: 224493, Explicit: 0, Year: 2000, Popularity: 78, Danceability: 0.551, Energy: 0.913, Key: 0, Loudness: -4.063, Mode: 0, Speechiness: 0.0466, Acousticness: 0.0263, Instrumentalness: 1.35e-05, Liveness: 0.347, Valence: 0.544, Tempo: 119, Genre: "rock metal" },
+	{ Artist: Robbie Williams, Song: Rock DJ, Duration: 258560, Explicit: 0, Year: 2000, Popularity: 68, Danceability: 0.708, Energy: 0.772, Key: 7, Loudness: -4.264, Mode: 0, Speechiness: 0.0322, Acousticness: 0.0267, Instrumentalness: 0, Liveness: 0.467, Valence: 0.861, Tempo: 103, Genre: "pop rock" },
+	{ Artist: *NSYNC, Song: Bye Bye Bye, Duration: 200560, Explicit: 0, Year: 2000, Popularity: 65, Danceability: 0.614, Energy: 0.928, Key: 8, Loudness: -4.806, Mode: 0, Speechiness: 0.0516, Acousticness: 0.0408, Instrumentalness: 0.00104, Liveness: 0.0845, Valence: 0.879, Tempo: 172, Genre: pop },
+	{ Artist: Faith Hill, Song: Breathe, Duration: 250546, Explicit: 0, Year: 1999, Popularity: 66, Danceability: 0.529, Energy: 0.496, Key: 7, Loudness: -9.007, Mode: 0, Speechiness: 0.029, Acousticness: 0.173, Instrumentalness: 0, Liveness: 0.251, Valence: 0.278, Tempo: 136, Genre: "pop country" },
+	{ Artist: Destiny's Child, Song: Say My Name, Duration: 271333, Explicit: 0, Year: 1999, Popularity: 75, Danceability: 0.713, Energy: 0.678, Key: 5, Loudness: -3.525, Mode: 0, Speechiness: 0.102, Acousticness: 0.273, Instrumentalness: 0, Liveness: 0.149, Valence: 0.734, Tempo: 138, Genre: "pop R&B" },
+	{ Artist: Eminem, Song: The Real Slim Shady, Duration: 284200, Explicit: 1, Year: 2000, Popularity: 86, Danceability: 0.949, Energy: 0.661, Key: 5, Loudness: -4.244, Mode: 0, Speechiness: 0.0572, Acousticness: 0.0302, Instrumentalness: 0, Liveness: 0.0454, Valence: 0.76, Tempo: 104, Genre: hip hop },
+	]
+}
+
